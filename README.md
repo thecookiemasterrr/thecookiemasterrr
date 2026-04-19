@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @mistercookie447
-- 👀 I’m interested in Programming Games/Gaming
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: cirexeezu@relay.firefox.com
+
